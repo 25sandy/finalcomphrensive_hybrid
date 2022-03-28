@@ -1,0 +1,251 @@
+24-03-2022 11:23:15 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 11:23:15 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 11:23:15 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 11:23:18 INFO  LoanAggrement:19 - the title matches with given input
+24-03-2022 11:24:55 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 11:24:55 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 11:24:56 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 11:24:58 INFO  LoanAggrement:19 - the title matches with given input
+24-03-2022 11:26:12 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 11:26:12 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 11:26:13 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 11:26:15 INFO  LoanAggrement:19 - the title matches with given input
+24-03-2022 11:30:43 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 11:30:43 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 11:30:43 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 11:31:18 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 11:31:18 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 11:31:18 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 11:31:21 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 11:37:36 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 11:37:36 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 11:37:36 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 11:37:38 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 14:01:31 INFO  Login:19 - nobroker as opened
+24-03-2022 14:01:31 INFO  Login:19 - click on login button
+24-03-2022 14:09:05 INFO  Login:19 - nobroker as opened
+24-03-2022 14:09:05 INFO  Login:19 - click on login button
+24-03-2022 14:11:03 INFO  Login:19 - nobroker as opened
+24-03-2022 14:11:03 INFO  Login:19 - click on login button
+24-03-2022 14:14:52 INFO  Login:19 - nobroker as opened
+24-03-2022 14:14:52 INFO  Login:19 - click on login button
+24-03-2022 14:20:49 INFO  Login:19 - nobroker as opened
+24-03-2022 14:20:49 INFO  Login:19 - click on login button
+24-03-2022 14:21:56 INFO  Login:19 - nobroker as opened
+24-03-2022 14:21:56 INFO  Login:19 - click on login button
+24-03-2022 14:27:41 INFO  Login:19 - nobroker as opened
+24-03-2022 14:27:41 INFO  Login:19 - click on login button
+24-03-2022 14:31:49 INFO  Login:19 - nobroker as opened
+24-03-2022 14:35:55 INFO  Login:19 - nobroker as opened
+24-03-2022 14:35:55 INFO  Login:19 - click on login button
+24-03-2022 14:37:04 INFO  Login:19 - nobroker as opened
+24-03-2022 14:37:04 INFO  Login:19 - click on login button
+24-03-2022 14:37:40 INFO  Login:19 - nobroker as opened
+24-03-2022 14:37:40 INFO  Login:19 - click on login button
+24-03-2022 14:39:00 INFO  Login:19 - nobroker as opened
+24-03-2022 14:39:00 INFO  Login:19 - click on login button
+24-03-2022 14:39:21 INFO  Login:19 - nobroker as opened
+24-03-2022 14:39:21 INFO  Login:19 - click on login button
+24-03-2022 14:45:03 INFO  Login:19 - nobroker as opened
+24-03-2022 14:45:03 INFO  Login:19 - click on login button
+24-03-2022 14:46:19 INFO  Login:19 - nobroker as opened
+24-03-2022 14:46:19 INFO  Login:19 - click on login button
+24-03-2022 14:48:52 INFO  Login:19 - nobroker as opened
+24-03-2022 14:48:52 INFO  Login:19 - click on login button
+24-03-2022 14:50:58 INFO  Login:19 - nobroker as opened
+24-03-2022 14:50:58 INFO  Login:19 - click on login button
+24-03-2022 15:10:40 INFO  Login:19 - nobroker as opened
+24-03-2022 15:10:40 INFO  Login:19 - click on login button
+24-03-2022 15:10:41 INFO  Login:19 - Enter phone number and password
+24-03-2022 15:10:42 INFO  Login:19 - click on login using password
+24-03-2022 15:10:42 INFO  Login:19 - enter the password
+24-03-2022 15:10:43 INFO  Login:19 - click on continue
+24-03-2022 15:10:43 INFO  Login:19 - loggedin succesfully
+24-03-2022 15:13:44 INFO  Login:19 - nobroker as opened
+24-03-2022 15:13:44 INFO  Login:19 - click on login button
+24-03-2022 15:13:44 INFO  Login:19 - Enter phone number and password
+24-03-2022 15:14:53 INFO  Login:19 - nobroker as opened
+24-03-2022 15:14:53 INFO  Login:19 - click on login button
+24-03-2022 15:14:53 INFO  Login:19 - Enter phone number and password
+24-03-2022 15:14:54 INFO  Login:19 - click on login using password
+24-03-2022 15:14:54 INFO  Login:19 - enter the password
+24-03-2022 15:14:55 INFO  Login:19 - click on continue
+24-03-2022 15:14:55 INFO  Login:19 - loggedin succesfully
+24-03-2022 15:17:51 INFO  Login:19 - nobroker as opened
+24-03-2022 15:17:51 INFO  Login:19 - click on login button
+24-03-2022 15:17:51 INFO  Login:19 - Enter phone number and password
+24-03-2022 15:17:52 INFO  Login:19 - click on login using password
+24-03-2022 15:17:52 INFO  Login:19 - enter the password
+24-03-2022 15:17:52 INFO  Login:19 - click on continue
+24-03-2022 15:17:53 INFO  Login:19 - loggedin succesfully
+24-03-2022 15:17:56 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 15:17:56 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 15:17:57 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 15:17:58 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 15:21:04 INFO  Login:19 - nobroker as opened
+24-03-2022 15:21:04 INFO  Login:19 - click on login button
+24-03-2022 15:21:04 INFO  Login:19 - Enter phone number and password
+24-03-2022 15:21:05 INFO  Login:19 - click on login using password
+24-03-2022 15:21:05 INFO  Login:19 - enter the password
+24-03-2022 15:21:06 INFO  Login:19 - click on continue
+24-03-2022 15:21:06 INFO  Login:19 - loggedin succesfully
+24-03-2022 15:21:10 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 15:21:10 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 15:21:10 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 15:21:16 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 15:24:24 INFO  Login:19 - nobroker as opened
+24-03-2022 15:24:24 INFO  Login:19 - click on login button
+24-03-2022 15:24:24 INFO  Login:19 - Enter phone number and password
+24-03-2022 15:24:25 INFO  Login:19 - click on login using password
+24-03-2022 15:24:25 INFO  Login:19 - enter the password
+24-03-2022 15:24:25 INFO  Login:19 - click on continue
+24-03-2022 15:24:25 INFO  Login:19 - loggedin succesfully
+24-03-2022 15:24:30 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 15:24:30 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 15:24:30 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 15:24:31 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 15:38:40 INFO  Login:19 - nobroker as opened
+24-03-2022 15:38:40 INFO  Login:19 - click on login button
+24-03-2022 15:38:40 INFO  Login:19 - Enter phone number and password
+24-03-2022 15:39:48 INFO  Login:19 - nobroker as opened
+24-03-2022 15:39:48 INFO  Login:19 - click on login button
+24-03-2022 15:39:49 INFO  Login:19 - Enter phone number and password
+24-03-2022 15:39:49 INFO  Login:19 - click on login using password
+24-03-2022 15:39:50 INFO  Login:19 - enter the password
+24-03-2022 15:39:50 INFO  Login:19 - click on continue
+24-03-2022 15:39:50 INFO  Login:19 - loggedin succesfully
+24-03-2022 15:39:54 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 15:39:54 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 15:40:41 INFO  Login:19 - nobroker as opened
+24-03-2022 15:40:41 INFO  Login:19 - click on login button
+24-03-2022 15:40:41 INFO  Login:19 - Enter phone number and password
+24-03-2022 15:40:42 INFO  Login:19 - click on login using password
+24-03-2022 15:40:42 INFO  Login:19 - enter the password
+24-03-2022 15:40:42 INFO  Login:19 - click on continue
+24-03-2022 15:40:43 INFO  Login:19 - loggedin succesfully
+24-03-2022 15:40:47 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 15:40:47 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 15:40:47 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 15:40:49 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 15:47:23 INFO  Login:19 - nobroker as opened
+24-03-2022 15:47:23 INFO  Login:19 - click on login button
+24-03-2022 15:47:23 INFO  Login:19 - Enter phone number and password
+24-03-2022 15:47:24 INFO  Login:19 - click on login using password
+24-03-2022 15:47:24 INFO  Login:19 - enter the password
+24-03-2022 15:47:25 INFO  Login:19 - click on continue
+24-03-2022 15:47:25 INFO  Login:19 - loggedin succesfully
+24-03-2022 15:47:29 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 15:47:29 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 15:47:29 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 15:47:31 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 18:35:40 INFO  Login:19 - nobroker as opened
+24-03-2022 18:35:40 INFO  Login:19 - click on login button
+24-03-2022 18:35:40 INFO  Login:19 - Enter phone number and password
+24-03-2022 18:35:42 INFO  Login:19 - click on login using password
+24-03-2022 18:35:45 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 18:35:45 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 18:51:30 INFO  Login:19 - nobroker as opened
+24-03-2022 18:51:30 INFO  Login:19 - click on login button
+24-03-2022 18:51:30 INFO  Login:19 - Enter phone number and password
+24-03-2022 18:51:32 INFO  Login:19 - click on login using password
+24-03-2022 18:51:32 INFO  Login:19 - enter the password
+24-03-2022 18:51:32 INFO  Login:19 - click on continue
+24-03-2022 18:51:32 INFO  Login:19 - loggedin succesfully
+24-03-2022 18:51:36 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 18:51:36 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 18:51:37 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 18:51:38 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 19:22:24 INFO  Login:19 - nobroker as opened
+24-03-2022 19:22:24 INFO  Login:19 - click on login button
+24-03-2022 19:22:25 INFO  Login:19 - Enter phone number and password
+24-03-2022 19:22:25 INFO  Login:19 - click on login using password
+24-03-2022 19:22:26 INFO  Login:19 - enter the password
+24-03-2022 19:22:26 INFO  Login:19 - click on continue
+24-03-2022 19:22:26 INFO  Login:19 - loggedin succesfully
+24-03-2022 19:22:31 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 19:22:31 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 19:22:31 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 19:22:33 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 19:49:31 INFO  Login:19 - nobroker as opened
+24-03-2022 19:49:31 INFO  Login:19 - click on login button
+24-03-2022 19:49:31 INFO  Login:19 - Enter phone number and password
+24-03-2022 19:49:37 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 19:49:37 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 19:49:37 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 19:49:38 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 19:56:31 INFO  Login:19 - nobroker as opened
+24-03-2022 19:56:31 INFO  Login:19 - click on login button
+24-03-2022 19:56:31 INFO  Login:19 - Enter phone number and password
+24-03-2022 19:56:32 INFO  Login:19 - click on login using password
+24-03-2022 19:56:32 INFO  Login:19 - enter the password
+24-03-2022 19:56:32 INFO  Login:19 - click on continue
+24-03-2022 19:56:33 INFO  Login:19 - loggedin succesfully
+24-03-2022 19:56:37 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 19:56:37 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 19:56:38 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 19:56:39 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 20:04:18 INFO  Login:19 - nobroker as opened
+24-03-2022 20:04:18 INFO  Login:19 - click on login button
+24-03-2022 20:04:18 INFO  Login:19 - Enter phone number and password
+24-03-2022 20:04:19 INFO  Login:19 - click on login using password
+24-03-2022 20:04:19 INFO  Login:19 - enter the password
+24-03-2022 20:04:19 INFO  Login:19 - click on continue
+24-03-2022 20:04:20 INFO  Login:19 - loggedin succesfully
+24-03-2022 20:04:24 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 20:04:24 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 20:04:24 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 20:04:26 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 20:07:59 INFO  Login:19 - nobroker as opened
+24-03-2022 20:07:59 INFO  Login:19 - click on login button
+24-03-2022 20:07:59 INFO  Login:19 - Enter phone number and password
+24-03-2022 20:08:04 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 20:08:04 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 20:08:04 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 20:08:06 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 20:10:59 INFO  Login:19 - nobroker as opened
+24-03-2022 20:10:59 INFO  Login:19 - click on login button
+24-03-2022 20:10:59 INFO  Login:19 - Enter phone number and password
+24-03-2022 20:11:05 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 20:11:05 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 20:11:05 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 20:11:07 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 20:13:49 INFO  Login:19 - nobroker as opened
+24-03-2022 20:13:49 INFO  Login:19 - click on login button
+24-03-2022 20:13:50 INFO  Login:19 - Enter phone number and password
+24-03-2022 20:13:50 INFO  Login:19 - click on login using password
+24-03-2022 20:13:51 INFO  Login:19 - enter the password
+24-03-2022 20:13:51 INFO  Login:19 - click on continue
+24-03-2022 20:13:51 INFO  Login:19 - loggedin succesfully
+24-03-2022 20:13:55 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 20:13:55 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 20:13:55 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 20:13:57 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 20:14:55 INFO  Login:19 - nobroker as opened
+24-03-2022 20:14:55 INFO  Login:19 - click on login button
+24-03-2022 20:14:56 INFO  Login:19 - Enter phone number and password
+24-03-2022 20:14:56 INFO  Login:19 - click on login using password
+24-03-2022 20:14:57 INFO  Login:19 - enter the password
+24-03-2022 20:14:57 INFO  Login:19 - click on continue
+24-03-2022 20:14:57 INFO  Login:19 - loggedin succesfully
+24-03-2022 20:15:01 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 20:15:01 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 20:15:01 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 20:15:03 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 20:23:31 INFO  Login:19 - nobroker as opened
+24-03-2022 20:23:31 INFO  Login:19 - click on login button
+24-03-2022 20:23:32 INFO  Login:19 - Enter phone number and password
+24-03-2022 20:23:37 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 20:23:37 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 20:23:38 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 20:23:39 INFO  LoanAggrement:19 - the  page title matches with given input
+24-03-2022 20:26:22 INFO  Login:19 - nobroker as opened
+24-03-2022 20:26:22 INFO  Login:19 - click on login button
+24-03-2022 20:26:22 INFO  Login:19 - Enter phone number and password
+24-03-2022 20:26:23 INFO  Login:19 - click on login using password
+24-03-2022 20:26:23 INFO  Login:19 - enter the password
+24-03-2022 20:26:24 INFO  Login:19 - click on continue
+24-03-2022 20:26:24 INFO  Login:19 - loggedin succesfully
+24-03-2022 20:26:28 INFO  LoanAggrement:19 - nobroker as opened
+24-03-2022 20:26:28 INFO  LoanAggrement:19 - Click on the loan aggrement 
+24-03-2022 20:26:28 INFO  LoanAggrement:19 - check the page title with the given input
+24-03-2022 20:26:30 INFO  LoanAggrement:19 - the  page title matches with given input

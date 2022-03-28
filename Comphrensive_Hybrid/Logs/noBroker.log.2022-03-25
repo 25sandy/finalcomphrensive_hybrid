@@ -1,0 +1,500 @@
+25-03-2022 09:49:38 INFO  Login:19 - nobroker as opened
+25-03-2022 09:49:38 INFO  Login:19 - click on login button
+25-03-2022 09:49:38 INFO  Login:19 - Enter phone number and password
+25-03-2022 09:49:43 INFO  LoanAggrement:19 - nobroker as opened
+25-03-2022 09:49:46 INFO  LoanAggrement:19 - nobroker as opened
+25-03-2022 09:49:46 INFO  LoanAggrement:19 - Click on the loan aggrement 
+25-03-2022 09:49:47 INFO  LoanAggrement:19 - check the page title with the given input
+25-03-2022 09:49:48 INFO  LoanAggrement:19 - the  page title matches with given input
+25-03-2022 09:52:27 INFO  Login:19 - nobroker as opened
+25-03-2022 09:52:27 INFO  Login:19 - click on login button
+25-03-2022 09:52:27 INFO  Login:19 - Enter phone number and password
+25-03-2022 09:52:28 INFO  Login:19 - click on login using password
+25-03-2022 09:52:28 INFO  Login:19 - enter the password
+25-03-2022 09:52:29 INFO  Login:19 - click on continue
+25-03-2022 09:52:29 INFO  Login:19 - loggedin succesfully
+25-03-2022 09:52:33 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 09:52:36 INFO  LoanAggrement:19 - nobroker as opened
+25-03-2022 09:52:36 INFO  LoanAggrement:19 - Click on the loan aggrement 
+25-03-2022 09:52:36 INFO  LoanAggrement:19 - check the page title with the given input
+25-03-2022 09:52:38 INFO  LoanAggrement:19 - the  page title matches with given input
+25-03-2022 09:56:18 INFO  Login:19 - nobroker as opened
+25-03-2022 09:56:18 INFO  Login:19 - click on login button
+25-03-2022 09:56:18 INFO  Login:19 - Enter phone number and password
+25-03-2022 09:56:19 INFO  Login:19 - click on login using password
+25-03-2022 09:56:20 INFO  Login:19 - enter the password
+25-03-2022 09:56:20 INFO  Login:19 - click on continue
+25-03-2022 09:56:20 INFO  Login:19 - loggedin succesfully
+25-03-2022 09:56:23 INFO  LoanAggrement:19 - nobroker as opened
+25-03-2022 09:56:23 INFO  LoanAggrement:19 - Click on the loan aggrement 
+25-03-2022 09:56:24 INFO  LoanAggrement:19 - check the page title with the given input
+25-03-2022 09:56:25 INFO  LoanAggrement:19 - the  page title matches with given input
+25-03-2022 09:56:29 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 09:56:29 INFO  hotelAddress:19 - search for address
+25-03-2022 09:56:29 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 09:56:29 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 09:56:29 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 09:58:47 INFO  Login:19 - nobroker as opened
+25-03-2022 09:58:47 INFO  Login:19 - click on login button
+25-03-2022 09:58:47 INFO  Login:19 - Enter phone number and password
+25-03-2022 09:58:48 INFO  Login:19 - click on login using password
+25-03-2022 09:58:48 INFO  Login:19 - enter the password
+25-03-2022 09:58:48 INFO  Login:19 - click on continue
+25-03-2022 09:58:48 INFO  Login:19 - loggedin succesfully
+25-03-2022 09:58:52 INFO  LoanAggrement:19 - nobroker as opened
+25-03-2022 09:58:52 INFO  LoanAggrement:19 - Click on the loan aggrement 
+25-03-2022 09:58:53 INFO  LoanAggrement:19 - check the page title with the given input
+25-03-2022 09:58:54 INFO  LoanAggrement:19 - the  page title matches with given input
+25-03-2022 09:58:57 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 09:58:57 INFO  hotelAddress:19 - search for address
+25-03-2022 09:58:57 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 09:58:57 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 09:58:58 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 10:05:40 INFO  Login:19 - nobroker as opened
+25-03-2022 10:05:40 INFO  Login:19 - click on login button
+25-03-2022 10:05:40 INFO  Login:19 - Enter phone number and password
+25-03-2022 10:05:41 INFO  Login:19 - click on login using password
+25-03-2022 10:05:41 INFO  Login:19 - enter the password
+25-03-2022 10:05:42 INFO  Login:19 - click on continue
+25-03-2022 10:05:42 INFO  Login:19 - loggedin succesfully
+25-03-2022 10:05:45 INFO  LoanAggrement:19 - nobroker as opened
+25-03-2022 10:05:45 INFO  LoanAggrement:19 - Click on the loan aggrement 
+25-03-2022 10:05:46 INFO  LoanAggrement:19 - check the page title with the given input
+25-03-2022 10:05:47 INFO  LoanAggrement:19 - the  page title matches with given input
+25-03-2022 10:05:50 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:05:50 INFO  hotelAddress:19 - search for address
+25-03-2022 10:05:50 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:05:50 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:05:50 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 10:09:15 INFO  Login:19 - nobroker as opened
+25-03-2022 10:09:15 INFO  Login:19 - click on login button
+25-03-2022 10:09:15 INFO  Login:19 - Enter phone number and password
+25-03-2022 10:09:16 INFO  Login:19 - click on login using password
+25-03-2022 10:09:16 INFO  Login:19 - enter the password
+25-03-2022 10:09:17 INFO  Login:19 - click on continue
+25-03-2022 10:09:17 INFO  Login:19 - loggedin succesfully
+25-03-2022 10:09:21 INFO  LoanAggrement:19 - nobroker as opened
+25-03-2022 10:09:21 INFO  LoanAggrement:19 - Click on the loan aggrement 
+25-03-2022 10:09:21 INFO  LoanAggrement:19 - check the page title with the given input
+25-03-2022 10:09:23 INFO  LoanAggrement:19 - the  page title matches with given input
+25-03-2022 10:09:27 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:09:27 INFO  hotelAddress:19 - search for address
+25-03-2022 10:09:27 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:09:27 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:09:28 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 10:09:45 INFO  Login:19 - nobroker as opened
+25-03-2022 10:09:45 INFO  Login:19 - click on login button
+25-03-2022 10:09:45 INFO  Login:19 - Enter phone number and password
+25-03-2022 10:09:46 INFO  Login:19 - click on login using password
+25-03-2022 10:09:46 INFO  Login:19 - enter the password
+25-03-2022 10:09:46 INFO  Login:19 - click on continue
+25-03-2022 10:09:46 INFO  Login:19 - loggedin succesfully
+25-03-2022 10:09:51 INFO  LoanAggrement:19 - nobroker as opened
+25-03-2022 10:09:51 INFO  LoanAggrement:19 - Click on the loan aggrement 
+25-03-2022 10:09:51 INFO  LoanAggrement:19 - check the page title with the given input
+25-03-2022 10:09:53 INFO  LoanAggrement:19 - the  page title matches with given input
+25-03-2022 10:09:57 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:09:57 INFO  hotelAddress:19 - search for address
+25-03-2022 10:09:57 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:09:57 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:09:58 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 10:24:15 INFO  Login:19 - nobroker as opened
+25-03-2022 10:24:15 INFO  Login:19 - click on login button
+25-03-2022 10:24:15 INFO  Login:19 - Enter phone number and password
+25-03-2022 10:24:16 INFO  Login:19 - click on login using password
+25-03-2022 10:24:16 INFO  Login:19 - enter the password
+25-03-2022 10:24:17 INFO  Login:19 - click on continue
+25-03-2022 10:24:17 INFO  Login:19 - loggedin succesfully
+25-03-2022 10:24:21 INFO  LoanAggrement:19 - nobroker as opened
+25-03-2022 10:24:21 INFO  LoanAggrement:19 - Click on the loan aggrement 
+25-03-2022 10:24:21 INFO  LoanAggrement:19 - check the page title with the given input
+25-03-2022 10:24:23 INFO  LoanAggrement:19 - the  page title matches with given input
+25-03-2022 10:24:26 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:24:26 INFO  hotelAddress:19 - search for address
+25-03-2022 10:24:26 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:24:26 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:26:27 INFO  Login:19 - nobroker as opened
+25-03-2022 10:26:27 INFO  Login:19 - click on login button
+25-03-2022 10:26:27 INFO  Login:19 - Enter phone number and password
+25-03-2022 10:26:28 INFO  Login:19 - click on login using password
+25-03-2022 10:26:29 INFO  Login:19 - enter the password
+25-03-2022 10:26:29 INFO  Login:19 - click on continue
+25-03-2022 10:26:29 INFO  Login:19 - loggedin succesfully
+25-03-2022 10:26:34 INFO  LoanAggrement:19 - nobroker as opened
+25-03-2022 10:26:34 INFO  LoanAggrement:19 - Click on the loan aggrement 
+25-03-2022 10:26:34 INFO  LoanAggrement:19 - check the page title with the given input
+25-03-2022 10:26:35 INFO  LoanAggrement:19 - the  page title matches with given input
+25-03-2022 10:26:38 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:26:38 INFO  hotelAddress:19 - search for address
+25-03-2022 10:26:38 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:26:39 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:27:22 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:27:22 INFO  hotelAddress:19 - search for address
+25-03-2022 10:27:22 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:27:22 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:30:21 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:30:21 INFO  hotelAddress:19 - search for address
+25-03-2022 10:30:21 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:30:22 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:31:10 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:31:39 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:31:39 INFO  hotelAddress:19 - search for address
+25-03-2022 10:31:39 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:31:39 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:32:10 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 10:32:10 INFO  hotelAddress:19 - address is16
+25-03-2022 10:34:23 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:34:23 INFO  hotelAddress:19 - search for address
+25-03-2022 10:34:23 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:34:23 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:40:17 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:40:17 INFO  hotelAddress:19 - search for address
+25-03-2022 10:40:17 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:40:18 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:40:38 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:40:38 INFO  hotelAddress:19 - search for address
+25-03-2022 10:40:38 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:40:38 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:42:52 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:42:52 INFO  hotelAddress:19 - search for address
+25-03-2022 10:42:52 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:42:52 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:45:23 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:45:23 INFO  hotelAddress:19 - search for address
+25-03-2022 10:45:23 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:45:23 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:47:10 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:47:10 INFO  hotelAddress:19 - search for address
+25-03-2022 10:47:10 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:47:10 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:48:45 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:48:45 INFO  hotelAddress:19 - search for address
+25-03-2022 10:48:45 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:48:45 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:49:47 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:49:47 INFO  hotelAddress:19 - search for address
+25-03-2022 10:49:47 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:49:47 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:51:19 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:51:19 INFO  hotelAddress:19 - search for address
+25-03-2022 10:51:19 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:51:19 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:52:23 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:52:23 INFO  hotelAddress:19 - search for address
+25-03-2022 10:52:23 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:52:23 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:54:26 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:54:26 INFO  hotelAddress:19 - search for address
+25-03-2022 10:54:26 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:54:26 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:56:47 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:56:47 INFO  hotelAddress:19 - search for address
+25-03-2022 10:56:47 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:56:47 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:57:04 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 10:57:04 INFO  hotelAddress:19 - address is16
+25-03-2022 10:57:57 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 10:57:57 INFO  hotelAddress:19 - search for address
+25-03-2022 10:57:57 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 10:57:58 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 10:58:07 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 10:58:07 INFO  hotelAddress:19 - address is16
+25-03-2022 11:03:54 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 11:03:54 INFO  hotelAddress:19 - search for address
+25-03-2022 11:03:54 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 11:03:54 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 11:04:04 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 11:04:04 INFO  hotelAddress:19 - address is16
+25-03-2022 11:04:11 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 11:04:11 INFO  hotelAddress:19 - address is16
+25-03-2022 11:05:57 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 11:05:57 INFO  hotelAddress:19 - search for address
+25-03-2022 11:05:57 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 11:05:57 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 11:06:07 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 11:06:07 INFO  hotelAddress:19 - address is16
+25-03-2022 11:06:53 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 11:06:53 INFO  hotelAddress:19 - search for address
+25-03-2022 11:06:53 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 11:06:53 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 11:07:03 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 11:07:03 INFO  hotelAddress:19 - address is16
+25-03-2022 11:08:34 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 11:08:34 INFO  hotelAddress:19 - search for address
+25-03-2022 11:08:34 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 11:08:34 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 11:08:44 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 11:08:44 INFO  hotelAddress:19 - address is16
+25-03-2022 11:19:43 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 11:19:43 INFO  hotelAddress:19 - search for address
+25-03-2022 11:19:43 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 11:19:43 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 11:19:53 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 11:19:53 INFO  hotelAddress:19 - address is16 - Flats, Apartments for Rent in Gateway of India, Mumbai | Rental Properties in Gateway of India
+25-03-2022 11:31:40 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 11:31:40 INFO  hotelAddress:19 - search for address
+25-03-2022 11:31:40 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 11:31:40 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 11:31:50 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 11:31:50 INFO  hotelAddress:19 - address is16 - Flats, Apartments for Rent in Gateway of India, Mumbai | Rental Properties in Gateway of India
+25-03-2022 11:35:41 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 11:35:41 INFO  hotelAddress:19 - search for address
+25-03-2022 11:35:41 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 11:35:41 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 11:35:50 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 11:35:50 INFO  hotelAddress:19 - address is16 - Flats, Apartments for Rent in Gateway of India, Mumbai | Rental Properties in Gateway of India
+25-03-2022 11:37:29 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 11:37:29 INFO  hotelAddress:19 - search for address
+25-03-2022 11:37:29 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 11:37:29 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 11:38:27 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 11:38:27 INFO  hotelAddress:19 - search for address
+25-03-2022 11:38:27 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 11:38:28 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 11:38:37 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 11:38:37 INFO  hotelAddress:19 - address is16 - Flats, Apartments for Rent in Gateway of India, Mumbai | Rental Properties in Gateway of India
+25-03-2022 12:43:37 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 12:44:23 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 12:45:25 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 12:45:25 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 12:46:16 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 12:46:16 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 12:47:18 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 12:47:18 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 12:49:08 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 12:49:08 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 12:51:09 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 12:51:09 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 12:52:19 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 12:52:19 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 12:53:05 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 12:53:05 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 12:55:14 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 12:55:14 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 12:56:18 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 12:56:18 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 12:58:38 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 12:58:38 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 13:00:08 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 13:00:08 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 13:12:26 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 13:12:26 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 13:12:26 INFO  EmiCalculator:19 - enter the total loan ammount
+25-03-2022 13:12:27 INFO  EmiCalculator:19 - enter the rate of interset
+25-03-2022 13:12:28 INFO  EmiCalculator:19 - enter the loan tenture 
+25-03-2022 13:12:28 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 13:14:56 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 13:14:56 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 13:14:56 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 13:14:57 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 13:14:58 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 13:14:58 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 13:20:55 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 13:20:55 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 13:20:55 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 13:20:57 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 13:20:57 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 13:20:58 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 13:24:07 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 13:24:07 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 13:24:07 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 13:24:08 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 13:24:08 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 13:24:08 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 14:37:30 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 14:37:30 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 14:37:30 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 14:37:31 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 14:37:31 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 14:37:31 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 14:54:17 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 14:54:32 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 14:56:47 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 14:57:02 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 14:57:51 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 14:59:10 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 15:00:23 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 15:04:00 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 15:04:30 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 15:05:00 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 15:58:22 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 15:59:25 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 15:59:57 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 16:00:28 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 16:01:42 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 16:02:35 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 16:03:18 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 16:03:46 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 16:05:07 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 16:06:33 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 16:07:03 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 17:13:39 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 17:13:39 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 17:13:40 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 17:13:40 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 17:13:41 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 17:13:41 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 17:14:31 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 17:14:31 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 17:14:31 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 17:14:32 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 17:14:32 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 17:14:32 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 17:23:46 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 17:23:46 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 17:23:46 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 17:23:47 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 17:23:47 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 17:23:47 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 17:29:50 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 17:29:50 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 17:29:51 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 17:29:51 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 17:29:52 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 17:29:52 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 17:37:17 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 17:37:17 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 17:37:17 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 17:37:18 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 17:37:18 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 17:37:18 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 17:42:10 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 17:42:10 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 17:42:10 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 17:42:11 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 17:42:12 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 17:42:12 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 17:45:50 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 17:45:50 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 17:45:50 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 17:45:51 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 17:45:52 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 17:45:52 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 17:52:05 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 17:52:05 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 17:52:06 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 17:52:06 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 17:52:06 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 17:52:07 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 17:54:04 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 17:54:04 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 17:54:04 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 17:54:05 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 17:54:05 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 17:54:06 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 17:57:55 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 17:57:55 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 17:57:55 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 17:57:56 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 17:57:56 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 17:57:56 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 18:00:30 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 18:00:30 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 18:00:30 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 18:00:31 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 18:00:31 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 18:00:31 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 18:03:37 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 18:03:37 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 18:03:37 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 18:03:38 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 18:03:38 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 18:03:38 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 18:06:39 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 18:06:39 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 18:06:39 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 18:06:40 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 18:06:40 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 18:06:41 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 18:11:12 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 18:11:12 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 18:11:12 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 18:11:13 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 18:11:13 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 18:11:13 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 18:13:48 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 18:13:48 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 18:13:48 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 18:13:49 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 18:13:49 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 18:13:49 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 18:17:04 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 18:17:04 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 18:17:04 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 18:17:05 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 18:17:05 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 18:17:05 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 18:46:43 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 18:48:24 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 18:49:29 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 18:50:01 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 18:50:34 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 18:52:14 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 19:13:00 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 19:15:46 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 19:25:15 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 19:25:16 INFO  propertyCount:19 - check for number properties available in particular location
+25-03-2022 19:25:17 INFO  Login:19 - select the city to check the availability
+25-03-2022 19:25:19 INFO  Login:19 - enter the place you want to search
+25-03-2022 19:25:26 INFO  Login:19 - mark the checkbox office and coworking
+25-03-2022 19:25:26 INFO  propertyCount:19 - the available property is432 matching properties in Electronic City
+25-03-2022 19:27:14 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 19:27:14 INFO  propertyCount:19 - check for number properties available in particular location
+25-03-2022 19:27:15 INFO  Login:19 - select the city to check the availability
+25-03-2022 19:27:18 INFO  Login:19 - enter the place you want to search
+25-03-2022 19:27:24 INFO  Login:19 - mark the checkbox office and coworking
+25-03-2022 19:27:24 INFO  propertyCount:19 - no plots available
+25-03-2022 19:31:12 INFO  Login:19 - nobroker as opened
+25-03-2022 19:31:12 INFO  Login:19 - click on login button
+25-03-2022 19:31:12 INFO  Login:19 - Enter phone number and password
+25-03-2022 19:31:13 INFO  Login:19 - click on login using password
+25-03-2022 19:31:13 INFO  Login:19 - enter the password
+25-03-2022 19:31:13 INFO  Login:19 - click on continue
+25-03-2022 19:31:13 INFO  Login:19 - loggedin succesfully
+25-03-2022 19:31:17 INFO  LoanAggrement:19 - nobroker as opened
+25-03-2022 19:31:17 INFO  LoanAggrement:19 - Click on the loan aggrement 
+25-03-2022 19:31:17 INFO  LoanAggrement:19 - check the page title with the given input
+25-03-2022 19:31:19 INFO  LoanAggrement:19 - the  page title matches with given input
+25-03-2022 19:31:22 INFO  hotelAddress:19 - nobroker as opened
+25-03-2022 19:31:22 INFO  hotelAddress:19 - search for address
+25-03-2022 19:31:22 INFO  hotelAddress:19 - click on the search icon
+25-03-2022 19:31:22 INFO  hotelAddress:19 - enter the place to fetch the address
+25-03-2022 19:31:31 INFO  hotelAddress:19 - address that you search is displayed
+25-03-2022 19:31:31 INFO  hotelAddress:19 - address is15 - Flats, Apartments for Rent in Gateway of India, Mumbai | Rental Properties in Gateway of India
+25-03-2022 19:31:34 INFO  EmiCalculator:19 - nobroker as opened
+25-03-2022 19:31:34 INFO  EmiCalculator:19 - emi calculator
+25-03-2022 19:31:35 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+25-03-2022 19:31:35 INFO  EmiCalculator:19 - enter the rate of interset  5%
+25-03-2022 19:31:35 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+25-03-2022 19:31:36 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+25-03-2022 19:31:38 INFO  propertyCount:19 - nobroker as opened
+25-03-2022 19:31:38 INFO  propertyCount:19 - check for number properties available in particular location
+25-03-2022 19:31:39 INFO  Login:19 - select the city to check the availability
+25-03-2022 19:31:42 INFO  Login:19 - enter the place you want to search
+25-03-2022 19:31:48 INFO  Login:19 - mark the checkbox office and coworking
+25-03-2022 19:31:49 INFO  propertyCount:19 - no plots available
+25-03-2022 22:02:54 INFO  menuBar:19 - nobroker as opened
+25-03-2022 22:03:14 INFO  menuBar:19 - nobroker as opened
+25-03-2022 22:03:33 INFO  menuBar:19 - nobroker as opened
+25-03-2022 22:05:50 INFO  menuBar:19 - nobroker as opened
+25-03-2022 22:07:12 INFO  menuBar:19 - nobroker as opened
+25-03-2022 22:09:34 INFO  menuBar:19 - nobroker as opened
+25-03-2022 22:19:38 INFO  menuBar:19 - nobroker as opened
+25-03-2022 22:19:38 INFO  menuBar:19 - find if the text present in page or not
+25-03-2022 22:19:38 INFO  menuBar:19 - click on the menu icon
+25-03-2022 22:19:39 INFO  menuBar:19 - select the post your property
+25-03-2022 22:20:01 INFO  menuBar:19 - the title is present in the page
+25-03-2022 22:22:25 INFO  menuBar:19 - nobroker as opened
+25-03-2022 22:22:25 INFO  menuBar:19 - find if the text present in page or not
+25-03-2022 22:22:25 INFO  menuBar:19 - click on the menu icon
+25-03-2022 22:22:26 INFO  menuBar:19 - select the post your property
+25-03-2022 22:22:48 INFO  menuBar:19 - the title is present in the page
+25-03-2022 22:22:48 INFO  menuBar:19 - title isVerified Tenants
+Thanks to our technology, only verified and genuine tenants can call you.
+25-03-2022 22:23:36 INFO  menuBar:19 - nobroker as opened
+25-03-2022 22:23:36 INFO  menuBar:19 - find if the text present in page or not
+25-03-2022 22:23:36 INFO  menuBar:19 - click on the menu icon
+25-03-2022 22:23:37 INFO  menuBar:19 - select the post your property
+25-03-2022 22:23:58 INFO  menuBar:19 - the title is present in the page
+25-03-2022 22:23:58 INFO  menuBar:19 - title isVerified Tenants
+Thanks to our technology, only verified and genuine tenants can call you.

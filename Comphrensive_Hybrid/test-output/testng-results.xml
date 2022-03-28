@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="32" passed="31" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-28T09:35:21 GMT+05:30" name="Suite" finished-at="2022-03-28T09:37:54 GMT+05:30" duration-ms="153203">
+    <groups>
+    </groups>
+    <test started-at="2022-03-28T09:35:21 GMT+05:30" name="Test1" finished-at="2022-03-28T09:35:50 GMT+05:30" duration-ms="28398">
+      <class name="com.mindtree.runner.Tc001_Login_ToWebsite">
+        <test-method is-config="true" signature="required()[pri:0, instance:com.mindtree.runner.Tc001_Login_ToWebsite@73e22a3d]" started-at="2022-03-28T09:35:21 GMT+05:30" name="required" finished-at="2022-03-28T09:35:23 GMT+05:30" duration-ms="1423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- required -->
+        <test-method is-config="true" signature="driverSetUp()[pri:0, instance:com.mindtree.runner.Tc001_Login_ToWebsite@73e22a3d]" started-at="2022-03-28T09:35:23 GMT+05:30" name="driverSetUp" finished-at="2022-03-28T09:35:25 GMT+05:30" duration-ms="2634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method signature="setUp()[pri:0, instance:com.mindtree.runner.Tc001_Login_ToWebsite@73e22a3d]" started-at="2022-03-28T09:35:25 GMT+05:30" name="setUp" finished-at="2022-03-28T09:35:25 GMT+05:30" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openNobroker()[pri:1, instance:com.mindtree.runner.Tc001_Login_ToWebsite@73e22a3d]" started-at="2022-03-28T09:35:25 GMT+05:30" name="openNobroker" finished-at="2022-03-28T09:35:46 GMT+05:30" duration-ms="21016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNobroker -->
+        <test-method signature="Login()[pri:2, instance:com.mindtree.runner.Tc001_Login_ToWebsite@73e22a3d]" started-at="2022-03-28T09:35:46 GMT+05:30" name="Login" finished-at="2022-03-28T09:35:47 GMT+05:30" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="enterDetails()[pri:3, instance:com.mindtree.runner.Tc001_Login_ToWebsite@73e22a3d]" started-at="2022-03-28T09:35:47 GMT+05:30" name="enterDetails" finished-at="2022-03-28T09:35:49 GMT+05:30" duration-ms="2167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterDetails -->
+        <test-method is-config="true" signature="driverExit()[pri:0, instance:com.mindtree.runner.Tc001_Login_ToWebsite@73e22a3d]" started-at="2022-03-28T09:35:49 GMT+05:30" name="driverExit" finished-at="2022-03-28T09:35:49 GMT+05:30" duration-ms="414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverExit -->
+        <test-method is-config="true" signature="excelsetup()[pri:0, instance:com.mindtree.runner.Tc001_Login_ToWebsite@73e22a3d]" started-at="2022-03-28T09:35:49 GMT+05:30" name="excelsetup" finished-at="2022-03-28T09:35:50 GMT+05:30" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelsetup -->
+      </class> <!-- com.mindtree.runner.Tc001_Login_ToWebsite -->
+    </test> <!-- Test1 -->
+    <test started-at="2022-03-28T09:35:50 GMT+05:30" name="Test2" finished-at="2022-03-28T09:35:55 GMT+05:30" duration-ms="5353">
+      <class name="com.mindtree.runner.Tc002_Loan_Agreement">
+        <test-method is-config="true" signature="required()[pri:0, instance:com.mindtree.runner.Tc002_Loan_Agreement@4dbb42b7]" started-at="2022-03-28T09:35:50 GMT+05:30" name="required" finished-at="2022-03-28T09:35:50 GMT+05:30" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- required -->
+        <test-method is-config="true" signature="driverSetUp()[pri:0, instance:com.mindtree.runner.Tc002_Loan_Agreement@4dbb42b7]" started-at="2022-03-28T09:35:50 GMT+05:30" name="driverSetUp" finished-at="2022-03-28T09:35:51 GMT+05:30" duration-ms="1157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method signature="setUp()[pri:0, instance:com.mindtree.runner.Tc002_Loan_Agreement@4dbb42b7]" started-at="2022-03-28T09:35:51 GMT+05:30" name="setUp" finished-at="2022-03-28T09:35:51 GMT+05:30" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openNobroker()[pri:1, instance:com.mindtree.runner.Tc002_Loan_Agreement@4dbb42b7]" started-at="2022-03-28T09:35:51 GMT+05:30" name="openNobroker" finished-at="2022-03-28T09:35:53 GMT+05:30" duration-ms="1917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNobroker -->
+        <test-method signature="loanAgreement()[pri:2, instance:com.mindtree.runner.Tc002_Loan_Agreement@4dbb42b7]" started-at="2022-03-28T09:35:53 GMT+05:30" name="loanAgreement" finished-at="2022-03-28T09:35:53 GMT+05:30" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanAgreement -->
+        <test-method signature="checkpageTitle()[pri:3, instance:com.mindtree.runner.Tc002_Loan_Agreement@4dbb42b7]" started-at="2022-03-28T09:35:53 GMT+05:30" name="checkpageTitle" finished-at="2022-03-28T09:35:55 GMT+05:30" duration-ms="1663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkpageTitle -->
+        <test-method is-config="true" signature="driverExit()[pri:0, instance:com.mindtree.runner.Tc002_Loan_Agreement@4dbb42b7]" started-at="2022-03-28T09:35:55 GMT+05:30" name="driverExit" finished-at="2022-03-28T09:35:55 GMT+05:30" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverExit -->
+        <test-method is-config="true" signature="excelsetup()[pri:0, instance:com.mindtree.runner.Tc002_Loan_Agreement@4dbb42b7]" started-at="2022-03-28T09:35:55 GMT+05:30" name="excelsetup" finished-at="2022-03-28T09:35:55 GMT+05:30" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelsetup -->
+      </class> <!-- com.mindtree.runner.Tc002_Loan_Agreement -->
+    </test> <!-- Test2 -->
+    <test started-at="2022-03-28T09:35:55 GMT+05:30" name="Test3" finished-at="2022-03-28T09:36:10 GMT+05:30" duration-ms="14823">
+      <class name="com.mindtree.runner.Tc003_getHotelAddress">
+        <test-method is-config="true" signature="required()[pri:0, instance:com.mindtree.runner.Tc003_getHotelAddress@23c30a20]" started-at="2022-03-28T09:35:55 GMT+05:30" name="required" finished-at="2022-03-28T09:35:55 GMT+05:30" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- required -->
+        <test-method is-config="true" signature="driverSetUp()[pri:0, instance:com.mindtree.runner.Tc003_getHotelAddress@23c30a20]" started-at="2022-03-28T09:35:55 GMT+05:30" name="driverSetUp" finished-at="2022-03-28T09:35:56 GMT+05:30" duration-ms="1175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method signature="setUp()[pri:0, instance:com.mindtree.runner.Tc003_getHotelAddress@23c30a20]" started-at="2022-03-28T09:35:56 GMT+05:30" name="setUp" finished-at="2022-03-28T09:35:56 GMT+05:30" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openNobroker()[pri:1, instance:com.mindtree.runner.Tc003_getHotelAddress@23c30a20]" started-at="2022-03-28T09:35:56 GMT+05:30" name="openNobroker" finished-at="2022-03-28T09:35:58 GMT+05:30" duration-ms="1645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNobroker -->
+        <test-method signature="getaddress()[pri:2, instance:com.mindtree.runner.Tc003_getHotelAddress@23c30a20]" started-at="2022-03-28T09:35:58 GMT+05:30" name="getaddress" finished-at="2022-03-28T09:36:09 GMT+05:30" duration-ms="10590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getaddress -->
+        <test-method is-config="true" signature="driverExit()[pri:0, instance:com.mindtree.runner.Tc003_getHotelAddress@23c30a20]" started-at="2022-03-28T09:36:09 GMT+05:30" name="driverExit" finished-at="2022-03-28T09:36:10 GMT+05:30" duration-ms="1283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverExit -->
+        <test-method is-config="true" signature="excelsetup()[pri:0, instance:com.mindtree.runner.Tc003_getHotelAddress@23c30a20]" started-at="2022-03-28T09:36:10 GMT+05:30" name="excelsetup" finished-at="2022-03-28T09:36:10 GMT+05:30" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelsetup -->
+      </class> <!-- com.mindtree.runner.Tc003_getHotelAddress -->
+    </test> <!-- Test3 -->
+    <test started-at="2022-03-28T09:36:10 GMT+05:30" name="Test4" finished-at="2022-03-28T09:36:34 GMT+05:30" duration-ms="23802">
+      <class name="com.mindtree.runner.Tc004_EmiCalculator">
+        <test-method is-config="true" signature="required()[pri:0, instance:com.mindtree.runner.Tc004_EmiCalculator@49049a04]" started-at="2022-03-28T09:36:10 GMT+05:30" name="required" finished-at="2022-03-28T09:36:10 GMT+05:30" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- required -->
+        <test-method is-config="true" signature="driverSetUp()[pri:0, instance:com.mindtree.runner.Tc004_EmiCalculator@49049a04]" started-at="2022-03-28T09:36:10 GMT+05:30" name="driverSetUp" finished-at="2022-03-28T09:36:11 GMT+05:30" duration-ms="1297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method signature="setUp()[pri:0, instance:com.mindtree.runner.Tc004_EmiCalculator@49049a04]" started-at="2022-03-28T09:36:11 GMT+05:30" name="setUp" finished-at="2022-03-28T09:36:11 GMT+05:30" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openNobroker()[pri:1, instance:com.mindtree.runner.Tc004_EmiCalculator@49049a04]" started-at="2022-03-28T09:36:11 GMT+05:30" name="openNobroker" finished-at="2022-03-28T09:36:31 GMT+05:30" duration-ms="19552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNobroker -->
+        <test-method signature="emicalci()[pri:2, instance:com.mindtree.runner.Tc004_EmiCalculator@49049a04]" started-at="2022-03-28T09:36:31 GMT+05:30" name="emicalci" finished-at="2022-03-28T09:36:33 GMT+05:30" duration-ms="2462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emicalci -->
+        <test-method is-config="true" signature="driverExit()[pri:0, instance:com.mindtree.runner.Tc004_EmiCalculator@49049a04]" started-at="2022-03-28T09:36:33 GMT+05:30" name="driverExit" finished-at="2022-03-28T09:36:34 GMT+05:30" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverExit -->
+        <test-method is-config="true" signature="excelsetup()[pri:0, instance:com.mindtree.runner.Tc004_EmiCalculator@49049a04]" started-at="2022-03-28T09:36:34 GMT+05:30" name="excelsetup" finished-at="2022-03-28T09:36:34 GMT+05:30" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelsetup -->
+      </class> <!-- com.mindtree.runner.Tc004_EmiCalculator -->
+    </test> <!-- Test4 -->
+    <test started-at="2022-03-28T09:36:34 GMT+05:30" name="Test5" finished-at="2022-03-28T09:36:50 GMT+05:30" duration-ms="16551">
+      <class name="com.mindtree.runner.Tc005_propertyCount">
+        <test-method is-config="true" signature="required()[pri:0, instance:com.mindtree.runner.Tc005_propertyCount@201a4587]" started-at="2022-03-28T09:36:34 GMT+05:30" name="required" finished-at="2022-03-28T09:36:34 GMT+05:30" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- required -->
+        <test-method is-config="true" signature="driverSetUp()[pri:0, instance:com.mindtree.runner.Tc005_propertyCount@201a4587]" started-at="2022-03-28T09:36:34 GMT+05:30" name="driverSetUp" finished-at="2022-03-28T09:36:35 GMT+05:30" duration-ms="1628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method signature="setUp()[pri:0, instance:com.mindtree.runner.Tc005_propertyCount@201a4587]" started-at="2022-03-28T09:36:35 GMT+05:30" name="setUp" finished-at="2022-03-28T09:36:35 GMT+05:30" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openNobroker()[pri:1, instance:com.mindtree.runner.Tc005_propertyCount@201a4587]" started-at="2022-03-28T09:36:35 GMT+05:30" name="openNobroker" finished-at="2022-03-28T09:36:37 GMT+05:30" duration-ms="1690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNobroker -->
+        <test-method signature="counting()[pri:2, instance:com.mindtree.runner.Tc005_propertyCount@201a4587]" started-at="2022-03-28T09:36:37 GMT+05:30" name="counting" finished-at="2022-03-28T09:36:49 GMT+05:30" duration-ms="11860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- counting -->
+        <test-method is-config="true" signature="driverExit()[pri:0, instance:com.mindtree.runner.Tc005_propertyCount@201a4587]" started-at="2022-03-28T09:36:49 GMT+05:30" name="driverExit" finished-at="2022-03-28T09:36:50 GMT+05:30" duration-ms="1253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverExit -->
+        <test-method is-config="true" signature="excelsetup()[pri:0, instance:com.mindtree.runner.Tc005_propertyCount@201a4587]" started-at="2022-03-28T09:36:50 GMT+05:30" name="excelsetup" finished-at="2022-03-28T09:36:50 GMT+05:30" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelsetup -->
+      </class> <!-- com.mindtree.runner.Tc005_propertyCount -->
+    </test> <!-- Test5 -->
+    <test started-at="2022-03-28T09:36:50 GMT+05:30" name="Test6" finished-at="2022-03-28T09:37:17 GMT+05:30" duration-ms="26602">
+      <class name="com.mindtree.runner.Tc006_menuBar">
+        <test-method is-config="true" signature="required()[pri:0, instance:com.mindtree.runner.Tc006_menuBar@27f981c6]" started-at="2022-03-28T09:36:50 GMT+05:30" name="required" finished-at="2022-03-28T09:36:50 GMT+05:30" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- required -->
+        <test-method is-config="true" signature="driverSetUp()[pri:0, instance:com.mindtree.runner.Tc006_menuBar@27f981c6]" started-at="2022-03-28T09:36:50 GMT+05:30" name="driverSetUp" finished-at="2022-03-28T09:36:52 GMT+05:30" duration-ms="1351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method signature="setUp()[pri:0, instance:com.mindtree.runner.Tc006_menuBar@27f981c6]" started-at="2022-03-28T09:36:52 GMT+05:30" name="setUp" finished-at="2022-03-28T09:36:52 GMT+05:30" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openNobroker()[pri:1, instance:com.mindtree.runner.Tc006_menuBar@27f981c6]" started-at="2022-03-28T09:36:52 GMT+05:30" name="openNobroker" finished-at="2022-03-28T09:36:54 GMT+05:30" duration-ms="1867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNobroker -->
+        <test-method signature="menubar()[pri:2, instance:com.mindtree.runner.Tc006_menuBar@27f981c6]" started-at="2022-03-28T09:36:54 GMT+05:30" name="menubar" finished-at="2022-03-28T09:37:17 GMT+05:30" duration-ms="22972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menubar -->
+        <test-method is-config="true" signature="driverExit()[pri:0, instance:com.mindtree.runner.Tc006_menuBar@27f981c6]" started-at="2022-03-28T09:37:17 GMT+05:30" name="driverExit" finished-at="2022-03-28T09:37:17 GMT+05:30" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverExit -->
+        <test-method is-config="true" signature="excelsetup()[pri:0, instance:com.mindtree.runner.Tc006_menuBar@27f981c6]" started-at="2022-03-28T09:37:17 GMT+05:30" name="excelsetup" finished-at="2022-03-28T09:37:17 GMT+05:30" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelsetup -->
+      </class> <!-- com.mindtree.runner.Tc006_menuBar -->
+    </test> <!-- Test6 -->
+    <test started-at="2022-03-28T09:37:17 GMT+05:30" name="Test7" finished-at="2022-03-28T09:37:23 GMT+05:30" duration-ms="6361">
+      <class name="com.mindtree.runner.Tc007_ApartmentPrice">
+        <test-method is-config="true" signature="required()[pri:0, instance:com.mindtree.runner.Tc007_ApartmentPrice@4c1909a3]" started-at="2022-03-28T09:37:17 GMT+05:30" name="required" finished-at="2022-03-28T09:37:17 GMT+05:30" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- required -->
+        <test-method is-config="true" signature="driverSetUp()[pri:0, instance:com.mindtree.runner.Tc007_ApartmentPrice@4c1909a3]" started-at="2022-03-28T09:37:17 GMT+05:30" name="driverSetUp" finished-at="2022-03-28T09:37:18 GMT+05:30" duration-ms="1160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method signature="setUp()[pri:0, instance:com.mindtree.runner.Tc007_ApartmentPrice@4c1909a3]" started-at="2022-03-28T09:37:18 GMT+05:30" name="setUp" finished-at="2022-03-28T09:37:18 GMT+05:30" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openNobroker()[pri:1, instance:com.mindtree.runner.Tc007_ApartmentPrice@4c1909a3]" started-at="2022-03-28T09:37:18 GMT+05:30" name="openNobroker" finished-at="2022-03-28T09:37:20 GMT+05:30" duration-ms="1840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNobroker -->
+        <test-method signature="gprice()[pri:2, instance:com.mindtree.runner.Tc007_ApartmentPrice@4c1909a3]" started-at="2022-03-28T09:37:20 GMT+05:30" name="gprice" finished-at="2022-03-28T09:37:23 GMT+05:30" duration-ms="2959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gprice -->
+        <test-method is-config="true" signature="driverExit()[pri:0, instance:com.mindtree.runner.Tc007_ApartmentPrice@4c1909a3]" started-at="2022-03-28T09:37:23 GMT+05:30" name="driverExit" finished-at="2022-03-28T09:37:23 GMT+05:30" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverExit -->
+        <test-method is-config="true" signature="excelsetup()[pri:0, instance:com.mindtree.runner.Tc007_ApartmentPrice@4c1909a3]" started-at="2022-03-28T09:37:23 GMT+05:30" name="excelsetup" finished-at="2022-03-28T09:37:23 GMT+05:30" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelsetup -->
+      </class> <!-- com.mindtree.runner.Tc007_ApartmentPrice -->
+    </test> <!-- Test7 -->
+    <test started-at="2022-03-28T09:37:23 GMT+05:30" name="Test8" finished-at="2022-03-28T09:37:45 GMT+05:30" duration-ms="21316">
+      <class name="com.mindtree.runner.Tc008_Testimonials">
+        <test-method is-config="true" signature="required()[pri:0, instance:com.mindtree.runner.Tc008_Testimonials@6bd61f98]" started-at="2022-03-28T09:37:23 GMT+05:30" name="required" finished-at="2022-03-28T09:37:23 GMT+05:30" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- required -->
+        <test-method is-config="true" signature="driverSetUp()[pri:0, instance:com.mindtree.runner.Tc008_Testimonials@6bd61f98]" started-at="2022-03-28T09:37:23 GMT+05:30" name="driverSetUp" finished-at="2022-03-28T09:37:25 GMT+05:30" duration-ms="1386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method signature="setUp()[pri:0, instance:com.mindtree.runner.Tc008_Testimonials@6bd61f98]" started-at="2022-03-28T09:37:25 GMT+05:30" name="setUp" finished-at="2022-03-28T09:37:25 GMT+05:30" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openNobroker()[pri:1, instance:com.mindtree.runner.Tc008_Testimonials@6bd61f98]" started-at="2022-03-28T09:37:25 GMT+05:30" name="openNobroker" finished-at="2022-03-28T09:37:26 GMT+05:30" duration-ms="1767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNobroker -->
+        <test-method signature="project()[pri:2, instance:com.mindtree.runner.Tc008_Testimonials@6bd61f98]" started-at="2022-03-28T09:37:26 GMT+05:30" name="project" finished-at="2022-03-28T09:37:44 GMT+05:30" duration-ms="17519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- project -->
+        <test-method is-config="true" signature="driverExit()[pri:0, instance:com.mindtree.runner.Tc008_Testimonials@6bd61f98]" started-at="2022-03-28T09:37:44 GMT+05:30" name="driverExit" finished-at="2022-03-28T09:37:45 GMT+05:30" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverExit -->
+        <test-method is-config="true" signature="excelsetup()[pri:0, instance:com.mindtree.runner.Tc008_Testimonials@6bd61f98]" started-at="2022-03-28T09:37:45 GMT+05:30" name="excelsetup" finished-at="2022-03-28T09:37:45 GMT+05:30" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelsetup -->
+      </class> <!-- com.mindtree.runner.Tc008_Testimonials -->
+    </test> <!-- Test8 -->
+    <test started-at="2022-03-28T09:37:45 GMT+05:30" name="Test9" finished-at="2022-03-28T09:37:52 GMT+05:30" duration-ms="7003">
+      <class name="com.mindtree.runner.Tc009_footer">
+        <test-method is-config="true" signature="required()[pri:0, instance:com.mindtree.runner.Tc009_footer@54e1c68b]" started-at="2022-03-28T09:37:45 GMT+05:30" name="required" finished-at="2022-03-28T09:37:45 GMT+05:30" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- required -->
+        <test-method is-config="true" signature="driverSetUp()[pri:0, instance:com.mindtree.runner.Tc009_footer@54e1c68b]" started-at="2022-03-28T09:37:45 GMT+05:30" name="driverSetUp" finished-at="2022-03-28T09:37:46 GMT+05:30" duration-ms="1185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method signature="setUp()[pri:0, instance:com.mindtree.runner.Tc009_footer@54e1c68b]" started-at="2022-03-28T09:37:46 GMT+05:30" name="setUp" finished-at="2022-03-28T09:37:46 GMT+05:30" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openNobroker()[pri:1, instance:com.mindtree.runner.Tc009_footer@54e1c68b]" started-at="2022-03-28T09:37:46 GMT+05:30" name="openNobroker" finished-at="2022-03-28T09:37:47 GMT+05:30" duration-ms="1266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNobroker -->
+        <test-method signature="foot()[pri:2, instance:com.mindtree.runner.Tc009_footer@54e1c68b]" started-at="2022-03-28T09:37:47 GMT+05:30" name="foot" finished-at="2022-03-28T09:37:51 GMT+05:30" duration-ms="4194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- foot -->
+        <test-method is-config="true" signature="driverExit()[pri:0, instance:com.mindtree.runner.Tc009_footer@54e1c68b]" started-at="2022-03-28T09:37:51 GMT+05:30" name="driverExit" finished-at="2022-03-28T09:37:52 GMT+05:30" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverExit -->
+        <test-method is-config="true" signature="excelsetup()[pri:0, instance:com.mindtree.runner.Tc009_footer@54e1c68b]" started-at="2022-03-28T09:37:52 GMT+05:30" name="excelsetup" finished-at="2022-03-28T09:37:52 GMT+05:30" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelsetup -->
+      </class> <!-- com.mindtree.runner.Tc009_footer -->
+    </test> <!-- Test9 -->
+    <test started-at="2022-03-28T09:37:52 GMT+05:30" name="Test10" finished-at="2022-03-28T09:37:54 GMT+05:30" duration-ms="2868">
+      <class name="com.mindtree.runner.Tc010_payrent">
+        <test-method is-config="true" signature="required()[pri:0, instance:com.mindtree.runner.Tc010_payrent@73e9cf30]" started-at="2022-03-28T09:37:52 GMT+05:30" name="required" finished-at="2022-03-28T09:37:52 GMT+05:30" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- required -->
+        <test-method is-config="true" signature="driverSetUp()[pri:0, instance:com.mindtree.runner.Tc010_payrent@73e9cf30]" started-at="2022-03-28T09:37:52 GMT+05:30" name="driverSetUp" finished-at="2022-03-28T09:37:53 GMT+05:30" duration-ms="1104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method signature="setUp()[pri:0, instance:com.mindtree.runner.Tc010_payrent@73e9cf30]" started-at="2022-03-28T09:37:53 GMT+05:30" name="setUp" finished-at="2022-03-28T09:37:53 GMT+05:30" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="openNobroker()[pri:1, instance:com.mindtree.runner.Tc010_payrent@73e9cf30]" started-at="2022-03-28T09:37:53 GMT+05:30" name="openNobroker" finished-at="2022-03-28T09:37:54 GMT+05:30" duration-ms="1288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNobroker -->
+        <test-method signature="reent()[pri:2, instance:com.mindtree.runner.Tc010_payrent@73e9cf30]" started-at="2022-03-28T09:37:54 GMT+05:30" name="reent" finished-at="2022-03-28T09:37:54 GMT+05:30" duration-ms="183" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at com.mindtree.runner.Tc010_payrent.reent(Tc010_payrent.java:33)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reent -->
+        <test-method is-config="true" signature="driverExit()[pri:0, instance:com.mindtree.runner.Tc010_payrent@73e9cf30]" started-at="2022-03-28T09:37:54 GMT+05:30" name="driverExit" finished-at="2022-03-28T09:37:54 GMT+05:30" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverExit -->
+        <test-method is-config="true" signature="excelsetup()[pri:0, instance:com.mindtree.runner.Tc010_payrent@73e9cf30]" started-at="2022-03-28T09:37:54 GMT+05:30" name="excelsetup" finished-at="2022-03-28T09:37:54 GMT+05:30" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelsetup -->
+      </class> <!-- com.mindtree.runner.Tc010_payrent -->
+    </test> <!-- Test10 -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,157 @@
+28-03-2022 08:58:43 INFO  Login:19 - nobroker as opened
+28-03-2022 08:58:43 INFO  Login:19 - click on login button
+28-03-2022 08:58:44 INFO  Login:19 - Enter phone number and password
+28-03-2022 08:58:44 INFO  Login:19 - click on login using password
+28-03-2022 08:58:45 INFO  Login:19 - enter the password
+28-03-2022 08:58:45 INFO  Login:19 - click on continue
+28-03-2022 08:58:45 INFO  Login:19 - loggedin succesfully
+28-03-2022 08:58:49 INFO  LoanAggrement:19 - nobroker as opened
+28-03-2022 08:58:49 INFO  LoanAggrement:19 - Click on the loan aggrement 
+28-03-2022 08:58:49 INFO  LoanAggrement:19 - check the page title with the given input
+28-03-2022 08:58:51 INFO  LoanAggrement:19 - the  page title matches with given input
+28-03-2022 08:58:54 INFO  hotelAddress:19 - nobroker as opened
+28-03-2022 08:58:54 INFO  hotelAddress:19 - search for address
+28-03-2022 08:58:54 INFO  hotelAddress:19 - click on the search icon
+28-03-2022 08:58:54 INFO  hotelAddress:19 - enter the place to fetch the address
+28-03-2022 09:00:10 INFO  Login:19 - nobroker as opened
+28-03-2022 09:00:10 INFO  Login:19 - click on login button
+28-03-2022 09:00:11 INFO  Login:19 - Enter phone number and password
+28-03-2022 09:00:11 INFO  Login:19 - click on login using password
+28-03-2022 09:00:11 INFO  Login:19 - enter the password
+28-03-2022 09:00:12 INFO  Login:19 - click on continue
+28-03-2022 09:00:12 INFO  Login:19 - loggedin succesfully
+28-03-2022 09:00:16 INFO  LoanAggrement:19 - nobroker as opened
+28-03-2022 09:00:16 INFO  LoanAggrement:19 - Click on the loan aggrement 
+28-03-2022 09:00:16 INFO  LoanAggrement:19 - check the page title with the given input
+28-03-2022 09:00:18 INFO  LoanAggrement:19 - the  page title matches with given input
+28-03-2022 09:00:22 INFO  hotelAddress:19 - nobroker as opened
+28-03-2022 09:00:22 INFO  hotelAddress:19 - search for address
+28-03-2022 09:00:22 INFO  hotelAddress:19 - click on the search icon
+28-03-2022 09:00:22 INFO  hotelAddress:19 - enter the place to fetch the address
+28-03-2022 09:00:31 INFO  hotelAddress:19 - address that you search is displayed
+28-03-2022 09:00:31 INFO  hotelAddress:19 - address is16 - Flats, Apartments for Rent in Gateway of India, Mumbai | Rental Properties in Gateway of India
+28-03-2022 09:00:34 INFO  EmiCalculator:19 - nobroker as opened
+28-03-2022 09:00:34 INFO  EmiCalculator:19 - emi calculator
+28-03-2022 09:00:34 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+28-03-2022 09:00:35 INFO  EmiCalculator:19 - enter the rate of interset  5%
+28-03-2022 09:00:35 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+28-03-2022 09:00:36 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+28-03-2022 09:00:39 INFO  propertyCount:19 - nobroker as opened
+28-03-2022 09:00:39 INFO  propertyCount:19 - check for number properties available in particular location
+28-03-2022 09:00:40 INFO  Login:19 - select the city to check the availability
+28-03-2022 09:00:43 INFO  Login:19 - enter the place you want to search
+28-03-2022 09:00:49 INFO  Login:19 - mark the checkbox office and coworking
+28-03-2022 09:00:50 INFO  propertyCount:19 - the available property is437 matching properties in Electronic City
+28-03-2022 09:00:54 INFO  menuBar:19 - nobroker as opened
+28-03-2022 09:00:54 INFO  menuBar:19 - find if the text present in page or not
+28-03-2022 09:00:54 INFO  menuBar:19 - click on the menu icon
+28-03-2022 09:00:55 INFO  menuBar:19 - select the post your property
+28-03-2022 09:01:16 INFO  menuBar:19 - the title is present in the page
+28-03-2022 09:01:16 INFO  menuBar:19 - title isVerified Tenants
+Thanks to our technology, only verified and genuine tenants can call you.
+28-03-2022 09:01:19 INFO  ApartmentPrice:19 - nobroker as opened
+28-03-2022 09:01:19 INFO  ApartmentPrice:19 - click on newapartment option
+28-03-2022 09:01:20 INFO  ApartmentPrice:19 - select the apartment option 1 BHK 
+28-03-2022 09:01:22 INFO  ApartmentPrice:19 - the apartment price is?14 Lacs
+?2,692 per sq.ft.
+28-03-2022 09:01:25 INFO  Testimonials:19 - nobroker as opened
+28-03-2022 09:01:25 INFO  Testimonials:19 - click on the testimonials option
+28-03-2022 09:01:28 INFO  Testimonials:19 - the testimonial is printedAbout Us
+NoBroker is a new home rental platform that makes it easier to find your new home without paying any brokerage. Use our verified listing to ensure you find your dream home by contacting the owners directly. In case you cannot find a property you are looking for, please post a requirement and we'll send you email notification with properties matching your requirements.
+28-03-2022 09:01:32 INFO  footer:19 - nobroker as opened
+28-03-2022 09:01:32 INFO  footer:19 - click on the about us
+28-03-2022 09:01:33 INFO  EmiCalculator:19 - select the option our blogs
+28-03-2022 09:01:34 INFO  EmiCalculator:19 - print the cureent time and date
+28-03-2022 09:01:50 INFO  footer:19 - cureent time isMon. Mar 28th, 2022 9:01:50 AM
+28-03-2022 09:01:54 INFO  payrent:19 - nobroker as opened
+28-03-2022 09:01:54 INFO  payrent:19 - click on the payrent option in home page
+28-03-2022 09:01:54 INFO  payrent:19 - print the payable option
+28-03-2022 09:15:47 INFO  EmiCalculator:19 - nobroker as opened
+28-03-2022 09:15:47 INFO  EmiCalculator:19 - emi calculator
+28-03-2022 09:15:47 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+28-03-2022 09:15:48 INFO  EmiCalculator:19 - enter the rate of interset  5%
+28-03-2022 09:15:48 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+28-03-2022 09:15:49 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+28-03-2022 09:15:52 INFO  propertyCount:19 - nobroker as opened
+28-03-2022 09:15:52 INFO  propertyCount:19 - check for number properties available in particular location
+28-03-2022 09:15:53 INFO  Login:19 - select the city to check the availability
+28-03-2022 09:15:55 INFO  Login:19 - enter the place you want to search
+28-03-2022 09:16:02 INFO  Login:19 - mark the checkbox office and coworking
+28-03-2022 09:16:02 INFO  propertyCount:19 - the available property is437 matching properties in Electronic City
+28-03-2022 09:16:06 INFO  menuBar:19 - nobroker as opened
+28-03-2022 09:16:06 INFO  menuBar:19 - find if the text present in page or not
+28-03-2022 09:16:06 INFO  menuBar:19 - click on the menu icon
+28-03-2022 09:16:07 INFO  menuBar:19 - select the post your property
+28-03-2022 09:16:29 INFO  menuBar:19 - the title is present in the page
+28-03-2022 09:16:29 INFO  menuBar:19 - title isVerified Tenants
+Thanks to our technology, only verified and genuine tenants can call you.
+28-03-2022 09:16:32 INFO  ApartmentPrice:19 - nobroker as opened
+28-03-2022 09:16:32 INFO  ApartmentPrice:19 - click on newapartment option
+28-03-2022 09:16:33 INFO  ApartmentPrice:19 - select the apartment option 1 BHK 
+28-03-2022 09:16:35 INFO  ApartmentPrice:19 - the apartment price is?14 Lacs
+?2,692 per sq.ft.
+28-03-2022 09:16:38 INFO  Testimonials:19 - nobroker as opened
+28-03-2022 09:16:38 INFO  Testimonials:19 - click on the testimonials option
+28-03-2022 09:16:41 INFO  Testimonials:19 - the testimonial is printedAbout Us
+NoBroker is a new home rental platform that makes it easier to find your new home without paying any brokerage. Use our verified listing to ensure you find your dream home by contacting the owners directly. In case you cannot find a property you are looking for, please post a requirement and we'll send you email notification with properties matching your requirements.
+28-03-2022 09:16:45 INFO  footer:19 - nobroker as opened
+28-03-2022 09:16:45 INFO  footer:19 - click on the about us
+28-03-2022 09:16:46 INFO  EmiCalculator:19 - select the option our blogs
+28-03-2022 09:16:47 INFO  EmiCalculator:19 - print the cureent time and date
+28-03-2022 09:16:48 INFO  footer:19 - cureent time isMon. Mar 28th, 2022 9:16:48 AM
+28-03-2022 09:16:51 INFO  payrent:19 - nobroker as opened
+28-03-2022 09:16:51 INFO  payrent:19 - click on the payrent option in home page
+28-03-2022 09:16:52 INFO  payrent:19 - print the payable option
+28-03-2022 09:35:46 INFO  Login:19 - nobroker as opened
+28-03-2022 09:35:46 INFO  Login:19 - click on login button
+28-03-2022 09:35:47 INFO  Login:19 - Enter phone number and password
+28-03-2022 09:35:48 INFO  Login:19 - click on login using password
+28-03-2022 09:35:48 INFO  Login:19 - enter the password
+28-03-2022 09:35:48 INFO  Login:19 - click on continue
+28-03-2022 09:35:48 INFO  Login:19 - loggedin succesfully
+28-03-2022 09:35:53 INFO  LoanAggrement:19 - nobroker as opened
+28-03-2022 09:35:53 INFO  LoanAggrement:19 - Click on the loan aggrement 
+28-03-2022 09:35:53 INFO  LoanAggrement:19 - check the page title with the given input
+28-03-2022 09:35:55 INFO  LoanAggrement:19 - the  page title matches with given input
+28-03-2022 09:35:58 INFO  hotelAddress:19 - nobroker as opened
+28-03-2022 09:35:58 INFO  hotelAddress:19 - search for address
+28-03-2022 09:35:58 INFO  hotelAddress:19 - click on the search icon
+28-03-2022 09:35:58 INFO  hotelAddress:19 - enter the place to fetch the address
+28-03-2022 09:36:08 INFO  hotelAddress:19 - address that you search is displayed
+28-03-2022 09:36:08 INFO  hotelAddress:19 - address is16 - Flats, Apartments for Rent in Gateway of India, Mumbai | Rental Properties in Gateway of India
+28-03-2022 09:36:31 INFO  EmiCalculator:19 - nobroker as opened
+28-03-2022 09:36:31 INFO  EmiCalculator:19 - emi calculator
+28-03-2022 09:36:31 INFO  EmiCalculator:19 - enter the total loan ammount 120000
+28-03-2022 09:36:33 INFO  EmiCalculator:19 - enter the rate of interset  5%
+28-03-2022 09:36:33 INFO  EmiCalculator:19 - enter the loan tenture 3 years
+28-03-2022 09:36:33 INFO  EmiCalculator:19 - Monthly emi for your amount is?3,597
+28-03-2022 09:36:37 INFO  propertyCount:19 - nobroker as opened
+28-03-2022 09:36:37 INFO  propertyCount:19 - check for number properties available in particular location
+28-03-2022 09:36:38 INFO  Login:19 - select the city to check the availability
+28-03-2022 09:36:42 INFO  Login:19 - enter the place you want to search
+28-03-2022 09:36:48 INFO  Login:19 - mark the checkbox office and coworking
+28-03-2022 09:36:49 INFO  propertyCount:19 - the available property is436 matching properties in Electronic City
+28-03-2022 09:36:54 INFO  menuBar:19 - nobroker as opened
+28-03-2022 09:36:54 INFO  menuBar:19 - find if the text present in page or not
+28-03-2022 09:36:54 INFO  menuBar:19 - click on the menu icon
+28-03-2022 09:36:55 INFO  menuBar:19 - select the post your property
+28-03-2022 09:37:16 INFO  menuBar:19 - the title is present in the page
+28-03-2022 09:37:16 INFO  menuBar:19 - title isVerified Tenants
+Thanks to our technology, only verified and genuine tenants can call you.
+28-03-2022 09:37:20 INFO  ApartmentPrice:19 - nobroker as opened
+28-03-2022 09:37:20 INFO  ApartmentPrice:19 - click on newapartment option
+28-03-2022 09:37:21 INFO  ApartmentPrice:19 - select the apartment option 1 BHK 
+28-03-2022 09:37:23 INFO  ApartmentPrice:19 - the apartment price is?25 Lacs
+?6,143 per sq.ft.
+28-03-2022 09:37:26 INFO  Testimonials:19 - nobroker as opened
+28-03-2022 09:37:26 INFO  Testimonials:19 - click on the testimonials option
+28-03-2022 09:37:43 INFO  Testimonials:19 - the testimonial is printedAbout Us
+NoBroker is a new home rental platform that makes it easier to find your new home without paying any brokerage. Use our verified listing to ensure you find your dream home by contacting the owners directly. In case you cannot find a property you are looking for, please post a requirement and we'll send you email notification with properties matching your requirements.
+28-03-2022 09:37:47 INFO  footer:19 - nobroker as opened
+28-03-2022 09:37:47 INFO  footer:19 - click on the about us
+28-03-2022 09:37:48 INFO  EmiCalculator:19 - select the option our blogs
+28-03-2022 09:37:49 INFO  EmiCalculator:19 - print the cureent time and date
+28-03-2022 09:37:51 INFO  footer:19 - cureent time isMon. Mar 28th, 2022 9:37:51 AM
+28-03-2022 09:37:54 INFO  payrent:19 - nobroker as opened
+28-03-2022 09:37:54 INFO  payrent:19 - click on the payrent option in home page
+28-03-2022 09:37:54 INFO  payrent:19 - print the payable option
